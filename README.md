@@ -1,4 +1,6 @@
 
+Note: This project has been deprecated. Use the lightmap save command in VKDoom instead.
+
 # ZDRay baking utility for VKDoom/GZDoom
 
 ZDRay is a node and lightmap generator for GZDoom. ZDRay is intended as a drop-in replacement for zdbsp, with the additional feature that it can also bake lightmap lights. Once ZDRay has processed the level WAD it is ready to be used by GZDoom.
